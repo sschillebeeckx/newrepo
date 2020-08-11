@@ -1,2 +1,2 @@
 # newrepo
-following tutorial
+Following the openclassroom tutorial.
